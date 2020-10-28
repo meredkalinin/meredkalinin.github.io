@@ -1,0 +1,58 @@
+h1 {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    color: cadetblue;
+    padding: 10px;
+    text-shadow: 1px 1px 20px;
+}
+
+table {
+    border: 1px solid black;
+    width: 100%;
+}
+
+th {
+    width: 33%;
+    border: 1px solid black;
+    background-image: linear-gradient(lightgray, white)
+}
+
+.rating {
+    text-align: center;
+}
+
+td {
+    border: solid 1px black;
+    border-collapse: collapse;
+    padding: 5px;
+    height: 50px;
+}
+
+.odd-row {
+    background-color:aliceblue
+}
+
+.even-row {
+    background-color:azure
+}
+
+p {
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    letter-spacing: 1px;
+    padding: 25px;
+    font-size: 20px;
+    font-family: "Palatino", "Times", serif;
+}
+
+body {
+    background-image: url('images/test.jpg')
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    position: absolute;
+}
